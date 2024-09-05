@@ -26,7 +26,7 @@ HTML, CSS, PHP, MySQL
 
 Accomplished diagnostic skills
 
-<![if !supportLists]>§ <![endif]>Quick learner
+Quick learner
 
 Troubleshooting
 
