@@ -41,6 +41,8 @@ Design patterns and principles
 Adaptable to all environments
 
 
+
+
 **Work History**
 
 
