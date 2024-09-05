@@ -44,39 +44,39 @@ Astute freelance web designer with 12 years of experience, providing expectation
 
 ## Work History
 
-_Yazan Mahmoud (Self-employed), Halifax, NS_  May 2009 – Present
+*Yazan Mahmoud (Self-employed), Halifax, NS_  May 2009 – Present*
 
 ### Web Site and Interface Design
 
-Managing creative projects from concept to completion by negotiating lower prices than competitors and still be able to make profit.
+- Managing creative projects from concept to completion by negotiating lower prices than competitors and still be able to make profit.
 
-Designing and creating eye-catching, functional, intuitive websites, continually exceeding client expectations.
+- Designing and creating eye-catching, functional, intuitive websites, continually exceeding client expectations.
 
-Designing & executing company catalogs for infrastructure support and development independently.
+- Designing & executing company catalogs for infrastructure support and development independently.
 
-Utilizing programming capabilities in PHP, SQL and JavaScript and other libraries as needed.
+- Utilizing programming capabilities in PHP, SQL and JavaScript and other libraries as needed.
 
-Keeping abreast of emerging technologies, software and trends, and applied them to projects.
+- Keeping abreast of emerging technologies, software and trends, and applied them to projects.
 
-Implementing Google campaigns and SEO for various types of websites.
+- Implementing Google campaigns and SEO for various types of websites.
 
-Designing, implementing and monitoring web pages and sites for continuous improvement in a fast-paced environment.
+- Designing, implementing and monitoring web pages and sites for continuous improvement in a fast-paced environment.
 
-Oversee troubleshooting of technical issues to solve problems within a reasonable timeframe.
+- Oversee troubleshooting of technical issues to solve problems within a reasonable timeframe.
 
-Recommending architectural improvements, design solutions and integration solutions
+- Recommending architectural improvements, design solutions and integration solutions
 
-Providing focused technical support to achieve effective troubleshooting, efficient resolution of issue, and maximum customer satisfaction.
+- Providing focused technical support to achieve effective troubleshooting, efficient resolution of issue, and maximum customer satisfaction.
 
 
 
 ## Work Accomplishments
 
-Developed an interactive website for several organizations that resulted in an increase of traffic by 50% within 2 – 4 weeks of launch.
+- Developed an interactive website for several organizations that resulted in an increase of traffic by 50% within 2 – 4 weeks of launch.
 
-Linked customers’ websites to social media accounts, enabling them to improve their site traffic.
+- Linked customers’ websites to social media accounts, enabling them to improve their site traffic.
 
-Created documentation for all processes involved with coding, enabling reuse, and effectively saving time.
+- Created documentation for all processes involved with coding, enabling reuse, and effectively saving time.
 
 ## Education
 
