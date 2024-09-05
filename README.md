@@ -1,4 +1,4 @@
-*Career Objective**
+**Career Objective**
 
 A highly dedicated individual with the ability to communicate job expectations to employees on a regular basis. Seeking a senior executive position to utilize my expertise in boosting productivity and performance in an organization.
 
