@@ -40,9 +40,11 @@ Design patterns and principles
 
 Adaptable to all environments
 
+
 **Work History**
 
-_Yazan Mahmoud (Self-employed), Halifax, NS_  May 2009 – Present
+
+Yazan Mahmoud (Self-employed), Halifax, NS_  May 2009 – Present
 
 **Web Site and Interface Design**
 
@@ -65,7 +67,6 @@ Recommending architectural improvements, design solutions and integration soluti
 
 Providing focused technical support to achieve effective troubleshooting, efficient resolution of issue, and maximum customer satisfaction.
 
-_
 
 
 
