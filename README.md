@@ -1,67 +1,66 @@
-**Career Objective**
+
+
+## Career Objective
 
 A highly dedicated individual with the ability to communicate job expectations to employees on a regular basis. Seeking a senior executive position to utilize my expertise in boosting productivity and performance in an organization.
 
-**Professional Summary**
+## Professional Summary
 
 Astute freelance web designer with 12 years of experience, providing expectation-exceeding design solutions for clients, including gathering user requirements, producing code, creating mockups and enhancing designs to wow the clients. Able to achieve compatibility targets while meeting and exceeding client demands. Committing to professionalism, high organization, and working under strict deadline schedules with attention to details. Have excellent communication skills. Able to quickly grasp and adapt to new concepts, environments and capable to learn more.
 
-**Skills and IT Related Experiences**
+## Skills and IT Related Experiences
 
-Exceptional Leading Skills
+- Exceptional Leading Skills
 
-Web site maintenance
+- Web site maintenance
 
-Administrative Management
+- Administrative Management
 
-Website optimization
+- Website optimization
 
-Creative thinking
+- Creative thinking
 
-WordPress
+- WordPress
 
-Enthusiastic team player
+- Enthusiastic team player
 
-HTML, CSS, PHP, MySQL
+- HTML, CSS, PHP, MySQL
 
-Accomplished diagnostic skills
+-  Accomplished diagnostic skills
 
-Quick learner
+- Quick learner
 
-Troubleshooting
+- Troubleshooting
 
-Experience Microsoft Office Suit
+- Experience Microsoft Office Suit
 
-Keen problem solver
+- Keen problem solver
 
-Experience with Adobe Creative Suite
+- Experience with Adobe Creative Suite
 
-Design patterns and principles
+- Design patterns and principles
 
-Adaptable to all environments
+- Adaptable to all environments
 
+## Work History
 
+_Yazan Mahmoud (Self-employed), Halifax, NS_  May 2009 – Present
 
-
-**Work History**
-
-
-Yazan Mahmoud (Self-employed), Halifax, NS_  May 2009 – Present
-
-**Web Site and Interface Design**
+### Web Site and Interface Design
 
 Managing creative projects from concept to completion by negotiating lower prices than competitors and still be able to make profit.
 
 Designing and creating eye-catching, functional, intuitive websites, continually exceeding client expectations.
 
 Designing & executing company catalogs for infrastructure support and development independently.
+
 Utilizing programming capabilities in PHP, SQL and JavaScript and other libraries as needed.
 
 Keeping abreast of emerging technologies, software and trends, and applied them to projects.
 
 Implementing Google campaigns and SEO for various types of websites.
 
-Designing, implementing and monitoring web pages and sites for continuous improvement in afast-paced environment.
+Designing, implementing and monitoring web pages and sites for continuous improvement in a fast-paced environment.
 
 Oversee troubleshooting of technical issues to solve problems within a reasonable timeframe.
 
@@ -71,8 +70,7 @@ Providing focused technical support to achieve effective troubleshooting, effici
 
 
 
-
-**Work Accomplishments**
+## Work Accomplishments
 
 Developed an interactive website for several organizations that resulted in an increase of traffic by 50% within 2 – 4 weeks of launch.
 
@@ -80,18 +78,18 @@ Linked customers’ websites to social media accounts, enabling them to improve 
 
 Created documentation for all processes involved with coding, enabling reuse, and effectively saving time.
 
-**Education**
+## Education
 
-**Bachelor of Arts (General Studies)** 2000 - 2004
+### Bachelor of Arts (General Studies) 2000 - 2004
 
 Minor in Computer Science and Minor in Psychology
 
 Mount Saint Vincent University, Halifax, NS
 
-**Languages**
+## Languages
 
 Fluent in English and Arabic
 
-**References**
+## References
 
 Available upon request.
